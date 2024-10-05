@@ -1,0 +1,43 @@
+.chat-logo{
+    width: 30px;
+    height:30px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+ 
+}
+.Auth{
+    margin-left: 900px;
+    gap: 20px;
+    display: flex;
+}
+.login-but{
+    color: black;
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+    height:26px;
+    width: 70px;
+    font-weight: 1000;
+}
+.signUp-but{
+    color: black;
+        background-color: darkorchid;
+        border: none;
+        border-radius: 5px;
+        height: 26px;
+        width: 70px;
+        font-weight: 1000;
+}
+.login-but1{
+
+    color: black;
+        background-color: aqua;
+        border: none;
+        border-radius: 5px;
+        height: 26px;
+        width: 110px;
+        font-weight: 1000;
+}

@@ -1,0 +1,26 @@
+.login-pop-up{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 310px;
+    margin-top: 70px;
+}
+.login-pop-up input{
+    color: black;
+    background-color: white;
+    border: none;
+    height: 36px;
+    gap: 10px;
+    width: 300px;
+    border-radius: 10px;
+
+}
+.login-pop-up button{
+    background-color: aqua;
+    color: black;
+ width: 300px;   
+ height: 36px;
+ border-radius: 10px;
+ border: none;
+}

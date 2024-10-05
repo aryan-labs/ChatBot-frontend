@@ -1,0 +1,11 @@
+*{
+  background-color: #05101c;
+  color: white;
+}
+.middle{
+  display: flex;
+}
+.hero{
+  margin-left: 0px;
+  margin-top: 20px;
+}
